@@ -1,5 +1,6 @@
 # SAMS: A Low-Complexity Speech-to-Music Synthesis Framework via Syllable-Level Alignment
 [Chang-Chieh Cheng](jameschengcs@nycu.edu.tw)
+
 SAMS is a lightweight framework for speech-to-music alignment. By mapping speech syllables to a track's pitch and rhythm using deterministic transformations, it ensures intelligibility, low latency, and low computational overhead.
 
 ## Usage
