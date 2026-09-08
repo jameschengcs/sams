@@ -1,4 +1,4 @@
-# SAMS: Syllable-Based Audio-to-Music Synthesis
+# SAMS
 ##############################################################
 '''
 Parameters of an onset: 
